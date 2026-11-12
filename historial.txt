@@ -1,0 +1,5 @@
+* 20df182 Afegir modul
+| * f41cfc4 Afegir contacte
+|/  
+* ac3aa60 Afegir gitignore
+* 65f5455 Primer commit
